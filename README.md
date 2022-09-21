@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=85&rotate=13&fontAlignY=25&fontAlign=77&desc=JungHyukJin's&nbsp;GitHub&nbsp;Profile&descAlignY=45&&descSize=20&descAlign=81&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=2a9d8f&height=200&section=header&text=Welcome&fontSize=85&rotate=13&fontAlignY=25&fontAlign=77&desc=Hyukjin's&nbsp;GitHub&nbsp;Profile&descAlignY=45&&descSize=20&descAlign=81&animation=fadeIn&fontColor=fff)
 
 ## **Main Stack** :punch:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
