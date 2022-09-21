@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Welcome&fontSize=90&rotate=19.5&fontAlignY=30&fontAlign=75&desc=JungHyukJin'sGitHubProfile&descAlignY=45&&descSize=24&descAlign=78&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=90&rotate=13&fontAlignY=25&fontAlign=76&desc=JungHyukJin'sGitHubProfile&descAlignY=45&&descSize=20&descAlign=81&animation=fadeIn)
 
 Main Stacks 
 <br/>
@@ -10,7 +10,8 @@ Main Stacks
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
 <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
 
-Used at lease once 
+<h2>Used at lease once :baby:</h2>
+
 <br/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
 <img src="https://img.shields.io/badge/BootStrap-7952B3?style=for-the-badge&logo=BootStrap&logoColor=white">
@@ -28,13 +29,10 @@ etc
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=white">
+<br/><br/><br/>
+<h2>About Me ☕</h2>
 
-About Me
-<br/>
 [![trophy](https://github-profile-trophy.vercel.app/?username=JungHyukJin&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![JungHyukJin's github stats](https://github-readme-stats.vercel.app/api?username=JungHyukJin&show_icons=true)
-[![JungHyukJin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JungHyukJin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/JungHyukJin)
-
-:dizzy_face:
 
