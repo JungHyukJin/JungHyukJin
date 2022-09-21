@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome&fontSize=85&rotate=13&fontAlignY=25&fontAlign=77&desc=JungHyukJin's&nbsp;GitHub&nbsp;Profile&descAlignY=45&&descSize=20&descAlign=81&animation=fadeIn)
 
-## **Main Stacks** :punch:
+## **Main Stack** :punch:
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" /> <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=white" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
 
@@ -13,10 +13,12 @@
 
 &nbsp;
 ## **About Me** :beer:
-``` 
+ <a href="https://junghyukjin.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/My Portfolio-181717?style=flat-square&logo=Github&logoColor=white"/></a>
+ 
+<!-- ``` 
 블라블라 
 ```
-<br>
+<br> -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JungHyukJin&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
